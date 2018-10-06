@@ -3,7 +3,7 @@ name: 小C的博客
 url:  https://jun-zz.github.io/
 description: Insert tagline here
 
-permalink: /themes/:title/
+# permalink: /themes/:title/
 
 gems: [jekyll-paginate]
 
