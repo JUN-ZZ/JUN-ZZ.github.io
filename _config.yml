@@ -1,9 +1,9 @@
 name: 小C的博客
-# url: http://matt.harzewski.com
-url:  https://jun-zz.github.io/
+url: http://matt.harzewski.com
+# url:  https://jun-zz.github.io/
 description: Insert tagline here
 
-# permalink: /themes/:title/
+permalink: /themes/:title/
 
 gems: [jekyll-paginate]
 
